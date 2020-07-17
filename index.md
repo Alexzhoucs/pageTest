@@ -14,7 +14,8 @@
 <!-- /code_chunk_output -->
 
 ## 入门
-* [第一章 & 第二章](./ch1/README.html)
+* [20200715-单位](./ch1/README.html)
+* [20200717-速度](./ch1/20200717.html)
 
 ## 光学
 
