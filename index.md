@@ -1,15 +1,23 @@
-# 物理八下
+# 物理-八年级
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
 
+- [八上](#八上)
 - [力与运动](#力与运动)
 - [压强](#压强)
 - [浮力](#浮力)
 - [机械](#机械)
 
 <!-- /code_chunk_output -->
+
+## 八上
+
+* [运动](./ch1/README.html)
+* [声](./ch3/README.html)
+* [光](./ch4/README.html)
+* [质量与密度](./ch5/README.html)
 
 ## 力与运动
 
